@@ -1,0 +1,16 @@
+/home/lucas/vrp/bin/Debug/net5.0/vrp
+/home/lucas/vrp/bin/Debug/net5.0/vrp.deps.json
+/home/lucas/vrp/bin/Debug/net5.0/vrp.runtimeconfig.json
+/home/lucas/vrp/bin/Debug/net5.0/vrp.runtimeconfig.dev.json
+/home/lucas/vrp/bin/Debug/net5.0/vrp.dll
+/home/lucas/vrp/bin/Debug/net5.0/ref/vrp.dll
+/home/lucas/vrp/bin/Debug/net5.0/vrp.pdb
+/home/lucas/vrp/obj/Debug/net5.0/vrp.csproj.AssemblyReference.cache
+/home/lucas/vrp/obj/Debug/net5.0/vrp.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/vrp/obj/Debug/net5.0/vrp.AssemblyInfoInputs.cache
+/home/lucas/vrp/obj/Debug/net5.0/vrp.AssemblyInfo.cs
+/home/lucas/vrp/obj/Debug/net5.0/vrp.csproj.CoreCompileInputs.cache
+/home/lucas/vrp/obj/Debug/net5.0/vrp.dll
+/home/lucas/vrp/obj/Debug/net5.0/ref/vrp.dll
+/home/lucas/vrp/obj/Debug/net5.0/vrp.pdb
+/home/lucas/vrp/obj/Debug/net5.0/vrp.genruntimeconfig.cache
